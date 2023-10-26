@@ -20,7 +20,7 @@ author:
   avatar:  # change with your own avatar
 
 # URL settings
-url: "https://nilik-blog.now.sh" #CHANGED
+url: "https://nilik-blog.vercel.app" #CHANGED
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
