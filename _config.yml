@@ -17,7 +17,7 @@ author:
   twitter:  # twitter username
   facebook:  # facebook username
   email:  # email adress
-  avatar:  # change with your own avatar
+  avatar: /assets/img/avatar-image.jpg # change with your own avatar
 
 # URL settings
 url: "https://nilik-blog.vercel.app" #CHANGED
