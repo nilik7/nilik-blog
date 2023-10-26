@@ -12,15 +12,15 @@ author:
   name: Nilik # author name
   bio: >- # tell to the world
     Mastodon Handle <a href="https://mastodon.social/@quiet_q" target="_blank" rel="noopener">@quiet_q@mastodon.social</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  username:  # general username
+  github:  # github username
+  twitter:  # twitter username
+  facebook:  # facebook username
+  email:  # email adress
   avatar:  # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://nilik-blog.now.sh" #CHANGED
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
