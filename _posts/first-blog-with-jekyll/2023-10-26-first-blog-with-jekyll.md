@@ -12,7 +12,7 @@ I have used to blog with blogspot, then tried wordpress and substack for bloggin
 
 <hr>
 
-### my past blogging journey
+#### my past blogging journey
 
 I used to spent lots of time (way too much) at finding a template for blogspot and wordpress that is free and of my preference, but they all does not feel right. So I decide to move to substack, it didn't quiet suit me either after a while.
 
@@ -22,7 +22,7 @@ I stumble upon this lovely keyell theme called [Klise Theme](https://github.com/
 
 <hr>
 
-### future blogging
+#### future blogging
 
 I know there is hardly going to be any audience for my little personal blog since it is only associated with my [mastodon account](https://mast.dragon-fly.club/@kirilina), but if you ever accidently or intentionally find this blog here, that means it is very fortunate to have you here.
 
