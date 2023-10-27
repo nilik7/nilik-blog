@@ -1,8 +1,8 @@
 ---
-title: Colophon
+title: About
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: 
 comments: false
 ---
 
@@ -16,4 +16,4 @@ Python编程/机电一体化工程
 
 现身处英国，待未来钱财和技能足够时搬到日本隐居修仙，希望能和同道者一起有个伴。
 
-[my Mastodon](https://mast.dragon-fly.club/@kirilina)
+<a href="https://mast.dragon-fly.club/@kirilina" target="_blank" rel="noopener">my Mastodon</a>
