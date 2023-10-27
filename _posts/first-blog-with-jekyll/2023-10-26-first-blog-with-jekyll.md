@@ -6,28 +6,25 @@ categories: miscellaneous
 usemathjax: 
 ---
 
-Hello, this is my first ever blog with Jekyll.
 
-I have used to blog with blogspot, then tried wordpress and substack for blogging. However the complication comes with such platform is not suitable for me. Therefore from now on, I will start to blog onmy own website with Jekyll.
+#### Welcome to My first Blog with Jekyll
 
-<hr>
-
-#### my past blogging journey
-
-I used to spent lots of time (way too much) at finding a template for blogspot and wordpress that is free and of my preference, but they all does not feel right. So I decide to move to substack, it didn't quiet suit me either after a while.
-
-Later I thought to myself, why don't I just blog on my own website on Github, oh dear it was such a hasssle to get it too work, for some reason the codes Icommit does not push to the origin and spent way too much time dealing with the prerequisize to download and etc.
-
-I stumble upon this lovely keyell theme called [Klise Theme](https://github.com/piharpi/jekyll-klise), which the author on the github page has linked button to deploy on netlify or azure or vercel. it ended my struggle to find a good template.
+Greetings! This marks my inaugural blog post using Jekyll. In the past, I've explored blogging on platforms like Blogspot, WordPress, and Substack. However, I found these platforms to be quite complicated and not entirely suitable for my needs. As a result, I've decided to embark on my blogging journey on my very own website with Jekyll.
 
 <hr>
 
-#### future blogging
+#### Reflecting on My Past Blogging Experience
+I spent a significant amount of time searching for free templates on Blogspot and WordPress that matched my preferences, but none of them felt quite right. Substack seemed promising initially, but it didn't fully meet my requirements either. Frustrated, I contemplated hosting my blog on my GitHub page. However, this endeavor proved to be quite challenging. I encountered issues with code commits not pushing to the origin repository, and I wasted considerable time dealing with prerequisites and downloads.
 
-I know there is hardly going to be any audience for my little personal blog since it is only associated with my [mastodon account](https://mast.dragon-fly.club/@kirilina), but if you ever accidently or intentionally find this blog here, that means it is very fortunate to have you here.
+Luckily, my perseverance led me to the [Klise Theme](https://github.com/piharpi/jekyll-klise) on GitHub, which turned out to be a lifesaver. The theme came with deployment buttons for platforms like Netlify, Azure, and Vercel, putting an end to my struggle in finding a suitable template.
 
-You're welcome to add the RSS feed or find me on [mastodon](https://mast.dragon-fly.club/@kirilina).
+<hr>
 
+#### Looking Ahead: The Future of My Blog
+
+I am aware that my personal blog might not attract a large audience, given its connection solely to my [Mastodon account](https://mast.dragon-fly.club/@kirilina). However, if you've stumbled upon this blog, either accidentally or intentionally, consider it a stroke of luck. I genuinely appreciate your presence here.
+
+Feel free to subscribe to the RSS feed or connect with me on [Mastodon](https://mast.dragon-fly.club/@kirilina). Your support means the world to me, and I look forward to sharing more content with you in the future. Thank you for being here!
 
 
 
