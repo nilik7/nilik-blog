@@ -1,7 +1,10 @@
-
-
-2023-07-15
-
+---
+layout: post
+title:  "Insurgence by Frank Viola Book Reflection"
+date:   2023-07-15 09:00:00 +0000
+categories: 读书后感
+usemathjax: 
+---
 
 My initial interest in reading this book came from a recommendation by C.S. Joseph (to INTJ).
 
