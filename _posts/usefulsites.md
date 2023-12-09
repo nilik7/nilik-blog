@@ -1,6 +1,6 @@
 ---
 title: 安利好用的网站
-permalink: /useful-links/
+permalink: /usefulsites/
 layout: page
 excerpt: 
 comments: false
