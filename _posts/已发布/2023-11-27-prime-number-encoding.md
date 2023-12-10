@@ -2,7 +2,7 @@
 layout: post
 title:  "prime number encoding"
 date:   2023-11-17 09:00:00 +0000
-tags: [数学，奇想]
+tags: [数学, 奇想]
 usemathjax: 
 ---
 
