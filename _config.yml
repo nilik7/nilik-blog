@@ -9,7 +9,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: 星影 # author name
+  name: 行客 # author name
   bio: >- # tell to the world
     Mastodon Handle <a href="https://mast.dragon-fly.club/@kirilina" target="_blank" rel="noopener">@kirilina@mast.dragon-fly.club</a>.
   username:  # general username
