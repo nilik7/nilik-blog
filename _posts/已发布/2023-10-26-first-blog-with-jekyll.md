@@ -3,6 +3,7 @@ layout: post
 title:  "first blog with jekyll"
 date:   2023-10-26 09:00:00 +0000
 categories: miscellaneous
+tags: [miscellaneous]
 usemathjax: 
 ---
 
