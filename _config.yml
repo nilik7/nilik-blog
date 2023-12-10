@@ -1,5 +1,5 @@
 # Site settings
-title: Nilik blog # site title
+title: 行迹录 # site title
 description: >- # site description 
 lang: en-US # default lang
 timezone: Europe/London # set your timezone
@@ -9,7 +9,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Nilik # author name
+  name: 星影 # author name
   bio: >- # tell to the world
     Mastodon Handle <a href="https://mast.dragon-fly.club/@kirilina" target="_blank" rel="noopener">@kirilina@mast.dragon-fly.club</a>.
   username:  # general username
