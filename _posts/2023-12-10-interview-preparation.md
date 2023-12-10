@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "牛剑面试准备资料|Interview Preparation"
+title:  "牛剑面试准备资料 | Interview Preparation"
 date:   2023-12-10 09:00:00 +0000
 categories: 资料
 usemathjax: 
@@ -15,10 +15,8 @@ usemathjax:
 - Remember:
   - It is not necessarily about always getting the right answers. Vocalising throught processes is important - explain the thinking behind ideas. If you're not sure, take a sensible guess. Ask questions if you're not sure. Remember to discuss and collaborate. It is absolutely ok to say "I don't know". Try to explainwhat you DO know about the question.
 #### Useful websites:
-- [Interviews | University of Oxford](https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews)
-- [Interviews | University of Cambridge](https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews)
-
-
+- <a href="https://www.ox.ac.uk/admissions/undergraduate/applying-to-oxford/guide/interviews" target="_blank" rel="noopener">Interviews | University of Oxford</a>
+- <a href="https://www.undergraduate.study.cam.ac.uk/apply/after/cambridge-interviews" target="_blank" rel="noopener">Interviews | University of Cambridge</a>
 
 ### Interview Preparation
 - Read your personal statement again and any written work you had to submit.
@@ -29,7 +27,7 @@ usemathjax:
 - If you've applied for an <u>arts, humanities or social sciences</u> course it's useful for:
   - read more than the texts set by your school, sixth form or college
   - analyuse what you've read and think critically about it
-- If you've applied for a maths or science course it's useful to:
+- If you've applied for a <u>maths or science</u> course it's useful to:
   - practise problem solving
   - think about how you might show or explain the way you worked out a problem
   - read more about your subjectand focus on parts that particularly interest you.
